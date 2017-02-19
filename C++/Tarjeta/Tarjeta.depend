@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1487480128 source:c:\users\omarm\dropbox\codeblocks proyects\tarjeta\main.cpp
+	<iostream>
+	<math.h>
+	"Tarjeta.h"
+
+1487480096 c:\users\omarm\dropbox\codeblocks proyects\tarjeta\include\tarjeta.h
+	<iostream>
+
+1487480418 source:c:\users\omarm\dropbox\codeblocks proyects\tarjeta\src\tarjeta.cpp
+	"Tarjeta.h"
+
